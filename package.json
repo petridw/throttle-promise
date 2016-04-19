@@ -1,0 +1,16 @@
+{
+  "name": "promise-throttle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/ -t 5000"
+  },
+  "author": "David Petri <petridw@gmail.com> (davidpetri.com)",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
